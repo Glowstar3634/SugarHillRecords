@@ -1,4 +1,4 @@
-# Sugar Hill Records — Website Concept V1
+# Sugar Hill Records — Website Concept V1.2
 **Designed and developed by Nova Travis**  
 October 2026
 
@@ -70,3 +70,10 @@ sugar-hill-v1/
 
 ## Next development stage
 After feedback on the homepage, replace provisional imagery with approved Sugar Hill / Robinson family archival assets. Build out the Timeline, Music Library, Artists, Archives (including press), and Legacy pages with interconnected detail records.
+
+
+## V1.2 changes (October 2026)
+- Added the client-authorized full-color Sugar Hill Records logo in the shared header on all pages and in the homepage footer. The file is `assets/images/sugar-hill-records-logo.png`, with transparent padding cropped but the supplied artwork otherwise preserved.
+- Reworked the Origin, Artists, Impact, and Archives titles with a more grounded, editorial tone; retained **DROP THE NEEDLE.** in the Music section and the cinematic hero headline.
+- Removed the former **06 / THE NEXT CHAPTER** section. The page now ends with Archives, followed by the existing footer. Corrected the hero section counter to `01 / 06`.
+- All five placeholder subpages, shared navigation, interactions, and media-credit pages remain included.
